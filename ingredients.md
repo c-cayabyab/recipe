@@ -8,6 +8,8 @@ For the Chili Oil:
 ▢1 cup oil
 ▢1/4 cup crushed red pepper flakes
 
+Alternative: Use store-bought chili oil (La Gan Ma)
+
 For the Meat and Sui Mi Ya Cai:
 
 ▢3 teaspoons oil
