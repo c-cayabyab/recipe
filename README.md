@@ -3,7 +3,7 @@
 
 Good balance of sweet and salty, spicy and peanut-y.
 
-![recipe.jpg](https://github.com/c-cayabyab/recipe/blob/1cc88460c695141cdfcb97df91761639fe85028c/recipe.jpg)
+![recipe.jpg](https://thewoksoflife.com/wp-content/uploads/2014/11/dan-dan-noodles-15.jpg)
 
 ### Pantry Items
 
