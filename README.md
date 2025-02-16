@@ -1,15 +1,14 @@
 # Recipe
 ## Dan Dan Noodles
-<p> Good balance of sweet and salty, spicy and peanut-y.
-</p>
+
+Good balance of sweet and salty, spicy and peanut-y.
+
 ### Pantry Items
-<ol>
-    <li> sichuan peppercorns </li>
-    <li> hoisin sauce </li>
-    <li> shaoxing wine </li>
-</ol>
-<p> Taken from: https://thewoksoflife.com/dan-dan-noodles/#recipe
-</P>
 
+1. sichuan peppercorns
+2. hoisin sauce
+3. shaoxing wine
 
-### Compiled by: Chelsea Cayabyab
+Taken from: *https://thewoksoflife.com/dan-dan-noodles/#recipe*
+
+### Compiled by: **Chelsea Cayabyab**
